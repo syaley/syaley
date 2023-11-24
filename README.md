@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey i'm web and mobile web development training.I'm strating to work with HTML, CSS and JS.👋
 
 <!--
 **syaley/syaley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
